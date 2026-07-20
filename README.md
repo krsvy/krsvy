@@ -12,6 +12,8 @@
 
 𓏵‧₊˚ ┊ First-year CS student documenting her learning journey through personal projects. Currently exploring web development, UI/UX, and always trying to expand my knowledge! ⋆˚࿔
 
+Click [here](https://community.fabric.microsoft.com?wt.mc_id=studentamb_577269) to learn more abt my interests!
+
 🔭 &nbsp;I'm currently working on **Station: Academia, a browser-based focus website inspired by the warmth and wonder of Studio Ghibli films. 🚃**  
 ⚡ &nbsp;Fun fact: **I'm also a freelance digital illustrator! 40+ international clients .ᐟ.ᐟ**
 
